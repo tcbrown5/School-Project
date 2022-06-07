@@ -1,0 +1,1 @@
+Sample for Contributing guidlines.
